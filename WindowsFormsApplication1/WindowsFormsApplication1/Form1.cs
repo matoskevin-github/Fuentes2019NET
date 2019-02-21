@@ -27,7 +27,9 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            /*   try
+            /* 
+            Conexio via Service Name
+            try
                {
                    string oradb = ConfigurationManager.ConnectionStrings["miConexion"].ConnectionString.ToString();
                    OracleConnection conn = new OracleConnection();
@@ -40,7 +42,7 @@ namespace WindowsFormsApplication1
                    MessageBox.Show(ex.Message);
                }*/
 
-
+            //Conexion via TNS NAME
             string conexionString = "User id = SYSTEM; Password=Peru123.;Data Source = db11g;";
 
     
