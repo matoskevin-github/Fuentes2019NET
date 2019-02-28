@@ -1,0 +1,7 @@
+E:\Aplicaciones_NET\WcfEscuelaCRUDADO.Net\WcfEscuelaCRUDADO.Net\bin\WcfEscuelaCRUDADO.Net.dll.config
+E:\Aplicaciones_NET\WcfEscuelaCRUDADO.Net\WcfEscuelaCRUDADO.Net\bin\WcfEscuelaCRUDADO.Net.dll
+E:\Aplicaciones_NET\WcfEscuelaCRUDADO.Net\WcfEscuelaCRUDADO.Net\bin\WcfEscuelaCRUDADO.Net.pdb
+E:\Aplicaciones_NET\WcfEscuelaCRUDADO.Net\WcfEscuelaCRUDADO.Net\obj\Debug\WcfEscuelaCRUDADO.Net.csprojAssemblyReference.cache
+E:\Aplicaciones_NET\WcfEscuelaCRUDADO.Net\WcfEscuelaCRUDADO.Net\obj\Debug\WcfEscuelaCRUDADO.Net.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\WcfEscuelaCRUDADO.Net\WcfEscuelaCRUDADO.Net\obj\Debug\WcfEscuelaCRUDADO.Net.dll
+E:\Aplicaciones_NET\WcfEscuelaCRUDADO.Net\WcfEscuelaCRUDADO.Net\obj\Debug\WcfEscuelaCRUDADO.Net.pdb
