@@ -1,0 +1,7 @@
+E:\Aplicaciones_NET\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+E:\Aplicaciones_NET\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+E:\Aplicaciones_NET\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+E:\Aplicaciones_NET\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojAssemblyReference.cache
+E:\Aplicaciones_NET\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csproj.CoreCompileInputs.cache
+E:\Aplicaciones_NET\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+E:\Aplicaciones_NET\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
